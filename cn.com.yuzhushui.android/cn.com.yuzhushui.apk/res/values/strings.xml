@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">\u5FAE\u7B11\u5427</string>
+    <string name="action_exiting">\u9000\u51FA</string>
+    <string name="action_clear_cache">\u6E05\u9664\u7F13\u5B58</string>
+</resources>
